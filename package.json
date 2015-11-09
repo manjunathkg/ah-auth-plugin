@@ -29,7 +29,7 @@
     "jsonwebtoken": "~0.2.0",
     "node-uuid": "~1.4.1",
     "q": "~1.0.1",
-    "scrypt": "~4.0.1",
+    "scrypt": "~5.4.1",
     "underscore": "~1.6.0",
     "mkdirp": "^0.3.5"
   },
